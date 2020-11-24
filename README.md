@@ -1,2 +1,2 @@
-# Interview-Q
-Going to do one LeetCode problem a day, let's see how this goes...
+# LeetCode
+Competition prep!
